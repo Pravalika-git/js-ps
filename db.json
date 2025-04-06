@@ -1,0 +1,162 @@
+{
+  "tourism": {
+      "places": [
+          {
+              "id": 1,
+              "place":"china",
+              "images":"https://www.thewowstyle.com/wp-content/uploads/2015/01/Eiffel-Tower-4.jpg",
+              "name": "Eiffel Tower",
+              "country": "France",
+              "type": "Landmark",
+              "description": "An iconic iron tower in Paris, offering breathtaking views of the city.",
+              "about": "Built in 1889, the Eiffel Tower is one of the most famous structures in the world. It offers multiple observation decks, fine dining, and nightly light shows.",
+              "location": {
+                  "latitude": 48.8584,
+                  "longitude": 2.2945
+              }
+             
+          },
+          {
+              "id": 2,
+                "place":"china",
+              "images":"https://th.bing.com/th/id/OIP.dVstE3IyUxAGXmCsAen1QAHaE9?w=272&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+              "name": "Great Wall of China",
+              "country": "China",
+     
+              "type": "Historic Site",
+              "description": "A series of fortifications built to protect ancient China from invasions.",
+              "about": "Stretching over 13,000 miles, the Great Wall is a UNESCO World Heritage Site and one of the most impressive architectural feats in history.",
+              "location": {
+                  "latitude": 40.4319,
+                  "longitude": 116.5704
+             }  
+          },
+          {
+              "id": 3,
+              "place":"china",
+              "images":"https://www.thewowstyle.com/wp-content/uploads/2015/01/Eiffel-Tower-4.jpg",
+              "name": "Grand Canyon",
+              "country": "United States",
+              "type": "Natural Wonder",
+              "description": "A vast canyon carved by the Colorado River, known for its stunning landscapes.",
+              "about": "The Grand Canyon is one of the seven natural wonders of the world. Visitors can enjoy hiking, rafting, and breathtaking scenic views.",
+              "location": {
+                  "latitude": 36.1069,
+                  "longitude": -112.1129
+              } 
+          },
+          {
+              "id": 4,
+              "place":"china",
+              "images":"https://www.thewowstyle.com/wp-content/uploads/2015/01/Eiffel-Tower-4.jpg",
+              "name": "Santorini",
+              "country": "Greece",
+              "type": "Island Destination",
+            
+              "description": "A stunning Greek island known for its white-washed buildings and blue-domed churches.",
+              "about": "Santorini offers breathtaking sunsets, crystal-clear waters, and a unique volcanic landscape. It is a paradise for travelers seeking relaxation and beauty.",
+              "location": {
+                  "latitude": 36.3932,
+                  "longitude": 25.4615
+              }
+            
+          },
+          {
+              "id": 5,
+              "place":"china",
+              "images":"https://www.thewowstyle.com/wp-content/uploads/2015/01/Eiffel-Tower-4.jpg",
+              "name": "Machu Picchu",
+              "country": "Peru",
+              "type": "Archaeological Site",
+              "description": "An ancient Incan citadel located in the Andes Mountains.",
+              "about": "Machu Picchu is a breathtaking remnant of the Incan Empire, offering panoramic views and deep historical significance.",
+              "location": {
+                  "latitude": -13.1631,
+                  "longitude": -72.5450
+              }
+          },
+          {
+            "id": 6,
+            "place":"china",
+            "images":"https://www.thewowstyle.com/wp-content/uploads/2015/01/Eiffel-Tower-4.jpg",
+            "name": "Santorini",
+            "country": "Greece",
+            "type": "Island Destination",
+          
+            "description": "A stunning Greek island known for its white-washed buildings and blue-domed churches.",
+            "about": "Santorini offers breathtaking sunsets, crystal-clear waters, and a unique volcanic landscape. It is a paradise for travelers seeking relaxation and beauty.",
+            "location": {
+                "latitude": 36.3932,
+                "longitude": 25.4615
+            }
+           
+        },
+
+        {
+          "id": 7,
+          "place":"china",
+          "images":"https://www.thewowstyle.com/wp-content/uploads/2015/01/Eiffel-Tower-4.jpg",
+          "name": "Taj Mahal",
+          "country": "India",
+          "type": "Historic Monument",
+    
+          "description": "A stunning white marble mausoleum built by Mughal Emperor Shah Jahan in memory of his wife.",
+          "about": "One of the Seven Wonders of the World, the Taj Mahal in Agra is a symbol of eternal love and an architectural masterpiece blending Persian, Islamic, and Indian styles.",
+          "location": {
+              "latitude": 27.1751,
+              "longitude": 78.0421
+          }
+         
+      },
+         
+      {
+        "id": 8,
+        "place":"china",
+        "images":"https://www.thewowstyle.com/wp-content/uploads/2015/01/Eiffel-Tower-4.jpg",
+        "name": "Lotus Temple",
+        "country": "India",
+        "type": "Religious Site",
+
+        "description": "A stunning Bahá'í House of Worship in New Delhi, known for its unique lotus-shaped architecture.",
+        "about": "The Lotus Temple is a peaceful sanctuary open to people of all religions, emphasizing unity and meditation in a breathtakingly designed structure.",
+        "location": {
+            "latitude": 28.5535,
+            "longitude": 77.2588
+        }
+        
+    },
+    {
+      "id": 9,
+      "place":"china",
+      "images":"https://www.thewowstyle.com/wp-content/uploads/2015/01/Eiffel-Tower-4.jpg",
+      "name": "India Gate",
+      "country": "India",
+      "type": "War Memorial",
+
+      "description": "A majestic war memorial located in the heart of New Delhi, dedicated to Indian soldiers who lost their lives in World War I.",
+      "about": "Standing at 42 meters, India Gate is an iconic landmark and a symbol of patriotism, with an eternal flame (Amar Jawan Jyoti) burning in honor of the fallen soldiers.",
+      "location": {
+          "latitude": 28.6129,
+          "longitude": 77.2295
+      }
+    
+  },
+             {
+                "id": 10,
+                "place":"china",
+                "images":"https://www.thewowstyle.com/wp-content/uploads/2015/01/Eiffel-Tower-4.jpg",
+                "name": "Kerala Backwaters",
+                "country": "India",
+                "type": "Natural Beauty",
+                "description": "A network of serene lakes, canals, and lagoons in the southern state of Kerala, offering houseboat cruises.",
+                "about": "The Kerala Backwaters provide a unique travel experience, with lush greenery, traditional houseboats, and diverse wildlife. It's a paradise for nature lovers and those seeking tranquility.",
+                "location": {
+                    "latitude": 9.5000,
+                    "longitude": 76.3000
+                }
+
+             
+            }
+      ]
+  }
+}
